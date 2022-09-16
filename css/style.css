@@ -1,0 +1,36 @@
+
+.text * {
+    color:rgb(255, 0, 0);
+}
+ 
+h1{
+    color: maroon;
+}
+
+span {
+    color:rgb(0, 255, 89);
+}
+.gubaluvka>h2 {
+    color:blue;
+}
+.text-gubaluvka {
+    color:rgb(147, 220, 20);
+}
+.kasprovy-verh a {
+    color:rgb(210, 30, 57);
+}
+.text-snowlandia .snow {
+    color:aqua;
+}
+.text-motylarnia ~ p{
+    color:darkmagenta
+}
+.bydynok-text > p {
+    color: red;
+}
+.text-myshogrud + p {
+    color: rgb(93, 0, 255);
+}
+.vysnovok, .text-vysnovok {
+    color: rgb(255, 197, 8);
+}
